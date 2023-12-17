@@ -93,4 +93,4 @@ let styleCard = (color) => {
     console.log(styleCard)
 }
 btn.addEventListener("click", getPokeData);
-window.addEventListener("load", getPokeData)
+window.onload = getPokeData()
