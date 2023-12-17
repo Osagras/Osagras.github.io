@@ -46,6 +46,13 @@ body {
     
 }
 
+.title{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
+
+
 #card {
     background: radial-gradient(circle at 50% 0%, #F08030 36%, white);
     width: 100%;
