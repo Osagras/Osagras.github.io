@@ -55,8 +55,11 @@ body {
 .title{
     display: flex;
     justify-content: center;
-    margin: 10%;
-    width: 200px;
+    margin: 10% 0;
+}
+
+.title img {
+    width: 450px;
 }
 
 
