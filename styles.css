@@ -34,6 +34,11 @@
 }
 
 body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/696/177/76/pokemon-pokeball-red-wallpaper-preview.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-color: white;
 }
 
